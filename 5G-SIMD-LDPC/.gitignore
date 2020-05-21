@@ -1,0 +1,7 @@
+main
+*.o
+*.txt
+.vscode
+src/ldpc_hbg.c
+src/simd_ldpc.c
+lib/Makefile
