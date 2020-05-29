@@ -1,4 +1,7 @@
-CC = icc
+# CC = icc
+export CC=/usr/local/bin/gcc-9
+export CXX=/usr/local/bin/g++-9
+export MPICXX=/usr/local/bin/mpicxx-9
 
 PWD = ../..
 
